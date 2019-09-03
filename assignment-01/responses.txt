@@ -1,0 +1,6 @@
+David Faatuiese
+
+1.) The terms 'web' and 'internet' are often used interchangeably, but they are actually not the same thing. The internet is a collection of independtendly operated networks, in other words they are a network of networks. The web, however, is a collection of information that is accessed via the internet.
+2.) In brief terms, the internet is essentially a wire in the ground. This wire connects all networks to eachother. Our phones and computers are not connected to this wire, but insteaded they are connected to an Internet Service Provider that then allows us to access the internet. 
+3.) A directory is basically a folder. An example is if you have hulu.com/activate, the "/activate" is actually a seperate folder from the IP adress that links you to what you wanted to get to. Content relationships are spoken in terms of child, parent, grandparent, and so on. Each one is an extention of the other.
+4.) Using VCS is beneficial for many reasons. Its main benefit is tracking any changes made, by committing changes to a file with a short description, the developer can better see how that file changes over time. It also allows collaboration to be much easier becuase all members can better understand what the others are doing. 
