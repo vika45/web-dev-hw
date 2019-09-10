@@ -1,0 +1,4 @@
+1. Data travels from one place to another by lots and lots of 1s and 0s being delivered by electronic pulses, light beams, and radio waves.
+2. Internet Protocol Address is where information from other devices send information, this IPS is a series of numbers that lead us to where we want to go. The Domain Name System (dns) converts these numbers in to a name, such as google.com.
+3. A cookie is invisible Data that a browsers sees and knows to save. The data that is saved is essentially an ID card for that given website that helps to identify who you are.
+4. Protocol, domain, and subdomain.
