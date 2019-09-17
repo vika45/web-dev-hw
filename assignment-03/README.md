@@ -1,0 +1,3 @@
+1. A web browser is simply a software program that is able to access the internet from a device. They use languages to give instructions that is then translated by the browser and becomes the wanted text or graphics. I mostly use Chrome and Safari.
+2. Essentially, a markup language is the architecture of a page. Whichever language is chosen is a defined rules or guidelines to have the browser read and create. Hypertext Markup Language (HTML) is the most common of the internet languages. It is the standard markup language used for created web pages/apps. Browsers use this language to interpret and create text or images into visual/audible web pages.
+3.[My screenshot](./screenshot.png)
