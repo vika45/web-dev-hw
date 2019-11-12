@@ -1,0 +1,36 @@
+/* Page-Wide */
+body {
+  background-color: Blue;
+  color: white;
+  padding: 5px;
+  font-family: 'McLaren', cursive;
+  font-size: 1em;
+  alignment: center;
+}
+
+/* Paragraph Context*/
+.text {
+  background-color: #FFFFFF;
+  color: Red;
+  padding: 20px;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 1.5em;
+  font-weight: 400;
+  align-items: center;
+}
+
+/*Read More*/
+a{
+  background-color: Red;
+  padding: 10px;
+}
+
+a:hover {
+  font-style: oblique;}
+
+a:visited {
+  color: blue
+}
+a:active {
+  background-color: #FFFFFF
+}
