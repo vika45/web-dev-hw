@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/cass?family=lato:400,400i,700');
+body {
+  margin: 0;
+  font-family: 'lato', sans-serif;
+  font-size: 1.25em;
+}
+
+/* navigation */
+.navigation {
+  background-color:  #000;
+  width: 250px;
+  height: 100%;
+
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+.navigation a {
+  text-decoration: none;
+  color: #FFF;
+}
+/* logo and title */
+.site-info {
+  margin: 2em auto;
+
+  text-align: center;
+  font-size: 200%;
+}
+.logo {
+  background-color: #FFF;
+  width: 150px;
+  height: 150px;
+
+  margin: 0 auto 1em auto;
+
+  border: ;
+  border-radius: 100%;
+
+  line-height: 150px;
+  color: #000;
+  text-transform: uppercase;
+}
+.logo:hover {
+  border-color: #999;
+}
+/* site links */
+.site-links {
+  margin: 0 1em;
+}
+.site-links a {
+  display: block;
+  margin: 1em;
+}
+.site-links a:hover {
+  margin-left: 2em;
+}
+
+/* Main Content*/
+.main {
+  background-color: #FFF;
+  overflow: auto;
+
+  margin-left: 300px;
+  padding: 1em;
+}
+ .banner {
+   width: 100%;
+   height: auto;
+ }
