@@ -1,0 +1,92 @@
+ody {
+    font-size: 12pt;
+    margin: 0;
+    padding: 0;
+    background-color: #e2e2e2;
+}
+
+/*Header*/
+header {
+    position: fixed;
+    top: 0px;
+    background-color: #000000;
+    font-family: impact;
+    margin: 0;
+    height: 4em;
+    width: 100%;
+    text-align: right;
+}
+
+/* Menu */
+.menu-item, .site-name {
+    display: inline-block;
+    margin: 2em .3em;
+    min-width: 7em;
+    text-align: center;
+    background-color: #654320;
+    padding: 0.5em 1em;
+}
+
+/* Link */
+.menu-item a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.menu-item:hover {
+    background-color: #d2b48c;
+}
+
+/* Dropdown */
+.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    border: 1px solid #000;
+    margin: 0.5em 0 0 -1em;
+    color: #fff;
+    background-color: #505050;
+    z-index: 1;
+}
+.dropdown-content a {
+    color: #000;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* dropdown display: */
+.dropdown-item {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em 1em 0.5em 1em;
+    min-width: 6em;
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: #000000;
+    background-color: #a2a2a2;
+}
+
+/* Main Content: */
+.site-name {
+    font: impact;
+    float: left;
+    padding-right: 1em;
+    color: #a2a2a2;
+}
+.main-container {
+    margin-top: 5em;
+    padding: 1em;
+    line-height: 1.4em;
+}
+.site-brand {
+   margin-bottom: 2em;
+   text-align: center;
+   font-size: 150%;
+}
